@@ -1,3 +1,6 @@
-# recipe
-A collection of my cooking recipes
-There are 3 recipes!
+# Avocado Recipes
+A collection of my avocado recipes
+
+* [Smoothie](avocado_smoothie.md)
+* [Salad](avocado_tomato_salad.md)
+* [Guacamole](guacamole.md)
